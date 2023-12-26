@@ -1,6 +1,3 @@
-
-
-```
 # Lessons in Blockchain and Web3 Exploration
 
 In this enlightening lesson, I delved into the foundational aspects of blockchain systems, unraveling their intricacies and functionality. Here's a glimpse of the knowledge gained:
@@ -38,6 +35,3 @@ In this enlightening lesson, I delved into the foundational aspects of blockchai
 ## Shaping the Future
 
 This lesson has been instrumental in immersing me into the captivating realms of blockchain and Web3. It lays the groundwork for my journey, providing valuable insights that will undoubtedly shape my knowledge as I progress further in this exciting exploration.
-```
-
-thanks to AI
