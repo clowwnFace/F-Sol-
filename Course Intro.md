@@ -1,6 +1,6 @@
-Certainly! Here it is in Markdown format:
 
-```markdown
+
+```
 # Introduction to Solidity and Foundry Framework for Smart Contract Security
 
 I am currently undertaking my inaugural course in mastering Solidity and the Foundry framework for enhancing smart contract security. Facilitated by Patrick Collins, this comprehensive program delves into the fundamentals of Solidity and Foundry. It goes beyond the basics to explore various aspects of Web3, DeFi protocols, and prominent blockchain projects within the Ethereum ecosystem.
